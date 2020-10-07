@@ -67,9 +67,65 @@ margin-bottom: 54px;
   float: right;
 margin-top: 142px;
 }
-
-
-
+.parte-cuatro{
+height: 815px;
+background: #EFEFEF;
+position: relative;
+}
+.subtitulo{
+  margin-top: 143px;
+  margin-bottom: 81px;
+}
+.iconos{
+  height: 180px;
+  width: 355px;
+  margin-bottom: 70px;
+  float: left;
+}
+.iconos-2{
+  height: 180px;
+  width: 350px;
+  float: left;
+  margin-left: 35px;
+  margin-bottom: 70px;
+  position: relative;
+}
+#icon{
+  margin-bottom: 21px;
+}
+ #title{
+  font-family:"Montserrat", sans-serif;
+  font-size: 20px;
+  color: #141720;
+  margin-bottom: 15px;
+}
+#text{
+ font-family: "Open Sans", sans-serif;
+ font-size: 15px;
+color: #5d5f65;
+}
+.dos-secciones-2{
+  background: #141720;
+  padding-top: 145px;
+  padding-bottom: 255px;
+  color: #fff;
+  position: relative;
+}
+.imagen-dos-secciones-2{
+  width: 50%;
+  height: 635px;
+  background: url(../imagenes/imagen\ 2.svg);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0px;
+}
+#texto-2{
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+ color: #fff;
+ margin-bottom: 40px;
+}
 
 
 
