@@ -31,6 +31,18 @@ body {
 .todo-al-centro h2 {
   font-size: 25px;
   line-height: 2.4;
+ }
+ #titulo-1{
+  font-family:"Montserrat", sans-serif;
+  font-size: 28px;
+  color: #fff;
+  margin-bottom: 54px;
+  }
+  #texto-1{
+   font-family: "Open Sans", sans-serif;
+   font-size: 15px;
+  color: #fff;
+  margin-bottom: 41px; 
 }
 .dos-secciones {
   background: #141720;
@@ -41,7 +53,7 @@ body {
 }
 .imagen-dos-secciones {
   width: 50%;
-  height: 635px;
+  height: 706px;
   background: url(../imagenes/imagen\ 1.png);
   background-size: cover;
   position: absolute;
