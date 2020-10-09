@@ -149,11 +149,11 @@ color: #5d5f65;
   font-family: "Open Sans", sans-serif;
   font-size: 28px;
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 66px;
 }
 .datos{
   background-color: #141720;
-  height: 700px;
+  height: 490px;
   width: 50%;
   float: left;
 }
@@ -166,7 +166,7 @@ color: #5d5f65;
 .mapa{
   height: 700px;
   width: 50%;
-  background: url(../imagenes/mapa.svg);
+  background: url(../imagenes/ooo.png);
   background-size: cover;
   position: absolute;
   top: 0;
