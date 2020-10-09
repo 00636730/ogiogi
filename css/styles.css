@@ -57,9 +57,15 @@ body {
   width: 261px;
   float: left;
 }
-.titulo-2{
+#texto-timeline{
+  font-family: "Open Sans", sans-serif;
+ font-size: 15px;
+ color: #5d5f65;
+}
+#titulo-2{
   font-family: "Montserrat", sans-serif;
-margin-bottom: 54px;
+  font-size: 28px;
+  margin-bottom: 54px;
 }
 .texto{
   height: 314px;
@@ -113,8 +119,8 @@ color: #5d5f65;
 }
 .imagen-dos-secciones-2{
   width: 50%;
-  height: 635px;
-  background: url(../imagenes/imagen\ 2.svg);
+  height: 730px;
+  background: url(../imagenes/imagen\ 2.png);
   background-size: cover;
   position: absolute;
   top: 0;
@@ -126,6 +132,51 @@ color: #5d5f65;
  color: #fff;
  margin-bottom: 40px;
 }
+#titulo-final{
+  font-family: "Open Sans", sans-serif;
+  font-size: 28px;
+  color: #fff;
+  margin-bottom: 66px;
+}
+.parte-final{
+  background: #141720;
+  padding-top: 145px;
+  padding-bottom: 241px;
+  color: #fff;
+  position: relative;
+}
+#titulo-contacto{
+  font-family: "Open Sans", sans-serif;
+  font-size: 28px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.datos{
+  background-color: #141720;
+  height: 700px;
+  width: 50%;
+  float: left;
+}
+#datos-2{
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.mapa{
+  height: 700px;
+  width: 50%;
+  background: url(../imagenes/mapa.svg);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0; 
+}
+
+
+
+
+
 
 
 
